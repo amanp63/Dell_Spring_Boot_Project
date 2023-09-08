@@ -1,9 +1,8 @@
 package com.programming.SpringBootConcept.SpringMVCBootJavaProject.beans;
 
 public class Login {
-
     private String username;
-    private  String password;
+    private String password;
 
     public String getUsername() {
         return username;
